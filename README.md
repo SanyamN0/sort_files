@@ -19,3 +19,8 @@ folder_to_sort = r"path\of\the\folder"
 sort_files(folder_to_sort)
 
 This will organize all files in the specified folder into subfolders based on their file types, making it easier to manage and locate files.
+
+## Usage
+
+ Clone the repository:
+   git clone https://github.com/YOUR-USERNAME/file-organizer.git
